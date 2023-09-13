@@ -5,6 +5,9 @@
   "repository": "https://github.com/kelokeloo/jenkins-demo1.git",
   "author": "lihongye",
   "license": "MIT",
+  "scripts": {
+    "run": "node src/index.js"
+  },
   "dependencies": {
     "lodash": "^4.17.21"
   }
