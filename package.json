@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-demo1",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/kelokeloo/jenkins-demo1.git",
+  "author": "lihongye",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
